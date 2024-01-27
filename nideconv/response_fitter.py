@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from scikit-learn import linear_model
+from sklearn import linear_model
 import scipy as sp
 from .plotting import plot_timecourses, plot_design_matrix
 from nilearn import input_data, image

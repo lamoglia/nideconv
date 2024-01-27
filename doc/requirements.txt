@@ -4,7 +4,7 @@ sphinx-gallery
 sphinx-rtd-theme
 scipy
 numpydoc
-sklearn
+scikit-learn
 nilearn
 ipython
 pybids
